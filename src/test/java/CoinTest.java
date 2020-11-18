@@ -7,7 +7,7 @@ public class CoinTest {
     Coin coin;
 
     @Before
-    public void before(){
+    public void before() {
         coin = new Coin(CoinType.OnePence);
     }
 
