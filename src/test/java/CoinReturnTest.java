@@ -16,7 +16,6 @@ public class CoinReturnTest {
 
     @Before
     public void before(){
-//        coins = new ArrayList<Coin>();
         coin1 = new Coin(CoinType.OnePence);
         coin2 = new Coin(CoinType.TwoPence);
         coin3 = new Coin(CoinType.OnePence);
