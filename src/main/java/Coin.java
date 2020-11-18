@@ -10,7 +10,9 @@ public class Coin {
         return coinType;
     }
     
-    public double getCoinValue(){
+    public double getCoinValue() {
         return coinType.getValue();
     }
+
+    
 }
